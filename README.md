@@ -1,2 +1,2 @@
 My first readme
-and i do the edite
+and i do the edit
